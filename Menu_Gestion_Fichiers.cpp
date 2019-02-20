@@ -1,7 +1,6 @@
 //procedure principale de la deuxieme cas (travaille sur fichiers)
 
-menu de gestion des etudiantes (travaille dans les fichiers).jpg
-menu de gestion des etudiantes (travaille dans les fichiers).jpg
+#menu de gestion des etudiantes (travaille dans les fichiers)
 
 
 void nacer(){
