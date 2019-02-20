@@ -1158,7 +1158,7 @@ void nacer(){
                                                     }
                                    }
      printf("voutre choi est de fermer le programme\n\n");
-                                   printf("ce programme creer par:\n\          Elbasri Abdennacer \n          group c\n          developemment informatique\n          ISTA NTYC SYBA\n");
+                                   printf("ce programme creer par:\n\          Elbasri Abdennacer \n          group c\n          developemment informatique\n          ISTA NTYC SYBA\n          www.nacer.ma");
 
      }
 //programme principale
@@ -1167,7 +1167,7 @@ main()
       int trav;
       printf("                #################################################\n ");
       printf("                     Bienvenue dans le menu de "); x("la gestion \n",50);
-      printf("                #################################################\n\n ");
+      printf("                #################################################\n\n                                Par www.nacer.ma  ");
       
       printf("\n\n\n\n\n                            veuillez patienter"); x(".....",900);
       system("cls");
