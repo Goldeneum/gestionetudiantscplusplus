@@ -22,4 +22,4 @@ Gestion des etudiants en c/c++
 
 #full_app.cpp: Programme complete de la gestion des etudiants.
 
-#=>Plus de détails/images de demonstration sur: 
+#=>Plus de détails/images de demonstration sur: https://www.nacer.ma/gestion-des-etudiants-en-langage-c-c/
