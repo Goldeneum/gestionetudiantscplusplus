@@ -1,4 +1,4 @@
- // procedure de la premier cas (travaille sur la memoire)
+ // Menu de la premier cas (travaille sur la memoire)
 void main(){
     
       char m[30],m0[]="liste",m1[]="mailleure",m2[]="listedate",m3[]="mention",m4[]="recherche",m5[]="ajoute",m6[]="supprimmer",m7[]="alpha",m8[]="moyenne",m9[]="nes",m10[]="quitter";
